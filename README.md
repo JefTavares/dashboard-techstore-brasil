@@ -134,3 +134,6 @@ Erros comuns e correção rápida:
   - Confirme Main file path como app.py
 
 Se quiser, no próximo passo eu te passo um checklist de pré-deploy de 1 minuto para reduzir chance de falha no primeiro build.
+
+No final ele vai gerar uma link:
+https://dashboard-techstore-brasil-bjiurleyaw2hx6yalnjed3.streamlit.app/
